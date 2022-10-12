@@ -1,4 +1,6 @@
 .settings
+nb-configuration.xml
+nbactions.xml
 target
 .classpath
 .project
