@@ -1,1 +1,1 @@
-# sample-jee-8-web-isue
+# sample-jee-8-web-issue
